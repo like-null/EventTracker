@@ -10,7 +10,7 @@ To use this code, simply add it to your website's JavaScript codebase. The <b>'p
 
 <b>Note</b>: This code assumes that the server is running a PHP script at /store-info.php to receive the data. And that php code can save the event data in a txt file. 
 <br>
-![likenull](eventdatascreenshot.png)
+![likenull](SharedScreenshot.jpg)
 <br>
 # PHP File
 Php code is paid. 
