@@ -1,5 +1,5 @@
 # Tracking User Navigation with popstate Event
-This code listens to the popstate event, which fires when the user navigates back or forward in their browser history. When this event is triggered, the code retrieves the URL of the current search results page, the referrer URL (the URL of the page that referred the user to the current page), and the time the user has spent on the website.
+This code listens to the popstate event, which fires when the user navigates back or forward in their browser history. When this event is triggered, the code retrieves the URL of the current search results page, the referrer URL (Google, Bing, Yahoo)(the URL of the page that referred the user to the current page), and the time the user has spent on the website.
 
 This information is then used to create a custom event called <b>userNavigatedBack</b> with the data as detail property. This custom event is then dispatched using the document.dispatchEvent() method.
 
