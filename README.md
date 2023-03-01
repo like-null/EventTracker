@@ -9,7 +9,7 @@ Finally, an XMLHttpRequest is sent to the server with the custom event data as a
 To use this code, simply add it to your website's JavaScript codebase. The <b>'popstate'</b> event will automatically be tracked and the custom event data will be sent to the server when the user navigates back.
 
 <b>Note</b>: This code assumes that the server is running a PHP script at /store-info.php to receive the data. And that php code can save the event data in a txt file. 
-<br>
+<br><br>
 ![likenull](SharedScreenshot.jpg)
 <br>
 # PHP File
